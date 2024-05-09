@@ -19,5 +19,8 @@ Code for the **absolute path** to the private key
 ![Image](https://github.com/priamyadav22/cse15l-lab-reports/blob/main/the%20right%20one.png)
 
 Code for the **absolute path** to the public key
+![Image](https://github.com/priamyadav22/cse15l-lab-reports/blob/main/absolute%20path%20ieng6.png)
+
+Opening `ieng6` without using password
 ![Image](
 
