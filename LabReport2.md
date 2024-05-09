@@ -16,7 +16,8 @@ The relevant arguments are `URI url`, `String[] args`,  `final HttpExchange exch
 The relevant fields don't necessarily change, but they work together to create a server.
 
 Code for the **absolute path** to the private key
-![Image]()
+![Image](https://github.com/priamyadav22/cse15l-lab-reports/blob/main/the%20right%20one.png)
 
-Code for the **absolute path** 
+Code for the **absolute path** to the public key
+![Image](
 
