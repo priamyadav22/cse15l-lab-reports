@@ -22,5 +22,8 @@ Code for the **absolute path** to the public key
 ![Image](https://github.com/priamyadav22/cse15l-lab-reports/blob/main/absolute%20path%20ieng6.png)
 
 Opening `ieng6` without using password
-![Image](
+![Image](https://github.com/priamyadav22/cse15l-lab-reports/blob/main/loggingin.png)
+
+#What I Learned
+I learned a lot from these past two labs. I learned how to create public and private keys and how to create and run a server!
 
