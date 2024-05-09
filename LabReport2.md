@@ -12,6 +12,10 @@ The relevant arguments are `URI url`, `String[] args`,  `final HttpExchange exch
 The relevant fields don't necessarily change, but they work together to create a server.
 ![Image](https://github.com/priamyadav22/cse15l-lab-reports/blob/main/%3Aaddmessage2.png)
 The methods that are called in the code are `public void handle(final HttpExchange exchange) throws IOException`, `public static void start(int port, URLHandler handler) throws IOException`, ` public String handleRequest(URI url)` and a `main` method.
+
+Command for the **absolute path** for the private key
+![Image](https://github.com/priamyadav22/cse15l-lab reports/blob/main/ls%20private%20key.png)
+
 The relevant arguments are `URI url`, `String[] args`,  `final HttpExchange exchange`, `int port, URLHandler handler`
 The relevant fields don't necessarily change, but they work together to create a server.
 
